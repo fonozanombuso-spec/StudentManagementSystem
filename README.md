@@ -31,19 +31,8 @@ StudentManagementSystem.java
 
 The application is contained in a single Java file and can be compiled and run directly.
 
-## Screenshot
 
-Add a screenshot of the application here:
 
-```
-/images/screenshot.png
-```
-
-Example:
-
-```markdown
-![Student Management System](images/screenshot.png)
-```
 
 ## How to Run
 
